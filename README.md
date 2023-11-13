@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Protus123
-- 👀 I’m interested in programing in Python
+- 👀 I’m interested programing in Python
 - 🌱 I’m currently learning ethical hacking
 - 📫 How to reach me - gmail: predeckipp@gmail.com
 
